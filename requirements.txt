@@ -1,0 +1,8 @@
+streamlit
+streamlit-chat
+openai
+langchain
+faiss-cpu  # Or faiss-gpu, depending on your setup
+speechrecognition
+PyAudio==0.2.11
+langchain-community
